@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def map(array)
   new=[]
   number_index = 0 
@@ -22,3 +23,4 @@ def reduce(array, starting_value=nil)
   end
   sum
 end
+
